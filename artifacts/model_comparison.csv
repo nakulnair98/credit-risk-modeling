@@ -1,0 +1,3 @@
+model,train_gini,test_gini,test_ks
+Scorecard (logistic),0.439,0.422,0.307
+LightGBM,0.504,0.442,0.319

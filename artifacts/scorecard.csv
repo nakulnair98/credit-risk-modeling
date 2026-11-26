@@ -1,0 +1,113 @@
+feature,bin,points
+int_rate,"(-inf, 7.26]",90
+int_rate,"(11.44, 12.29]",68
+int_rate,"(12.29, 13.33]",65
+int_rate,"(13.33, 14.49]",63
+int_rate,"(14.49, 16.55]",60
+int_rate,"(16.55, 18.99]",55
+int_rate,"(18.99, inf]",48
+int_rate,"(7.26, 8.39]",82
+int_rate,"(8.39, 9.99]",76
+int_rate,"(9.99, 11.44]",73
+grade,A,81
+grade,B,71
+grade,C,64
+grade,D,58
+grade,E,54
+grade,F,49
+grade,G,45
+verification_status,Not Verified,68
+verification_status,Source Verified,64
+verification_status,Verified,61
+inq_last_6mths,0.0,67
+inq_last_6mths,1.0,62
+inq_last_6mths,2.0,58
+inq_last_6mths,3.0,54
+dti,"(-inf, 7.84]",68
+dti,"(11.1, 13.68]",67
+dti,"(13.68, 16.06]",66
+dti,"(16.06, 18.4]",65
+dti,"(18.4, 20.86]",65
+dti,"(20.86, 23.58]",64
+dti,"(23.58, 26.77]",62
+dti,"(26.77, 30.93]",60
+dti,"(30.93, inf]",58
+dti,"(7.84, 11.1]",68
+purpose,car,65
+purpose,credit_card,66
+purpose,debt_consolidation,64
+purpose,educational,52
+purpose,home_improvement,64
+purpose,house,62
+purpose,major_purchase,63
+purpose,medical,62
+purpose,moving,61
+purpose,other,63
+purpose,renewable_energy,60
+purpose,small_business,60
+purpose,vacation,63
+purpose,wedding,61
+home_ownership,ANY,78
+home_ownership,MORTGAGE,68
+home_ownership,OWN,63
+home_ownership,RENT,60
+credit_history_years,"(-inf, 8.592]",61
+credit_history_years,"(10.753, 12.178]",62
+credit_history_years,"(12.178, 13.674]",63
+credit_history_years,"(13.674, 15.178]",64
+credit_history_years,"(15.178, 17.011]",65
+credit_history_years,"(17.011, 19.345]",65
+credit_history_years,"(19.345, 22.184]",66
+credit_history_years,"(22.184, 27.351]",66
+credit_history_years,"(27.351, inf]",67
+credit_history_years,"(8.592, 10.753]",62
+addr_state,AK,61
+addr_state,AL,58
+addr_state,AR,60
+addr_state,AZ,63
+addr_state,CA,62
+addr_state,CO,68
+addr_state,CT,71
+addr_state,DC,75
+addr_state,DE,66
+addr_state,FL,61
+addr_state,GA,69
+addr_state,HI,62
+addr_state,ID,64
+addr_state,IL,68
+addr_state,IN,64
+addr_state,KS,72
+addr_state,KY,66
+addr_state,LA,60
+addr_state,MA,67
+addr_state,MD,64
+addr_state,ME,80
+addr_state,MI,65
+addr_state,MN,61
+addr_state,MO,66
+addr_state,MS,62
+addr_state,MT,67
+addr_state,NC,62
+addr_state,ND,63
+addr_state,NE,63
+addr_state,NH,79
+addr_state,NJ,65
+addr_state,NM,62
+addr_state,NV,57
+addr_state,NY,62
+addr_state,OH,63
+addr_state,OK,57
+addr_state,OR,72
+addr_state,PA,65
+addr_state,RI,68
+addr_state,SC,73
+addr_state,SD,58
+addr_state,TN,65
+addr_state,TX,64
+addr_state,UT,62
+addr_state,VA,64
+addr_state,VT,85
+addr_state,WA,68
+addr_state,WI,71
+addr_state,WV,73
+addr_state,WY,64
