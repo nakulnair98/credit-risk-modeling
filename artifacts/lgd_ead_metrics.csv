@@ -1,0 +1,9 @@
+metric,value
+LGD step 1 Gini,0.198
+LGD step 2 R2,0.011
+LGD MAE,0.071
+Mean pred LGD,0.9
+Mean actual LGD,0.899
+EAD R2,0.21
+EAD MAE,0.143
+Schedule EAD MAE,0.019
